@@ -43,6 +43,14 @@
 
 </div>
 
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristantenicollas&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
 ## 🌌 Atualmente
@@ -95,14 +103,6 @@
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 -->
-
-</div>
-
-🔥 Sequência de Contribuições
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristantenicollas&theme=tokyonight&hide_border=true"/>
 
 </div>
 
