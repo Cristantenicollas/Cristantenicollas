@@ -1,8 +1,12 @@
-# 👋 Olá, eu sou o **Nicollas**
+# <div align="center">👋 Olá, eu sou o Cristian</div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Sempre+Aprendendo+Algo+Novo;Bem-vindo+ao+meu+GitHub!"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Desenvolvedor+Full+Stack;Apaixonado+por+Tecnologia;Criando+Projetos+Incríveis;Sempre+Aprendendo+Algo+Novo" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome%20to%20my%20GitHub!&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff"/>
 
 </div>
 
@@ -10,59 +14,93 @@
 
 ## 🚀 Sobre mim
 
-💻 Desenvolvedor apaixonado por tecnologia e inovação.
-
-🎯 Buscando criar soluções eficientes, escaláveis e modernas.
-
-📚 Sempre aprendendo novas tecnologias.
-
-🤝 Aberto para colaborar em projetos Open Source.
+```txt
+💻 Desenvolvedor Full Stack
+🚀 Sempre explorando novas tecnologias
+📚 Aprendizado contínuo
+🎯 Focado em criar soluções modernas
+🤝 Aberto para colaboração em projetos
+☕ Café + Código = Produtividade
+```
 
 ---
 
-## 🛠 Tecnologias
+## 💻 Stack Principal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,python,java,php,mysql,mongodb,git,github,vscode,docker&perline=8"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nextjs,tailwind,python,java,php,mysql,mongodb,docker,git,github,vscode,linux&perline=9"/>
 
 </div>
 
 ---
 
-## 📊 Estatísticas
+## 🛠 Ferramentas
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cristantenicollas&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristantenicollas&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=figma,postman,vercel,npm,bash,discord"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## 🌌 Atualmente
+
+* 🌱 Aprendendo novas tecnologias e boas práticas.
+* ⚡ Desenvolvendo projetos pessoais.
+* 📖 Estudando arquitetura de software.
+* 💡 Sempre em busca de novos desafios.
+
+---
+
+## 🎵 Enquanto programo
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristantenicollas&theme=tokyonight&hide_border=true"/>
+🎧 Música + Café + Código
 
 </div>
 
 ---
 
-## 🏆 Troféus
+## ☕ Combustível
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Cristantenicollas&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://img.shields.io/badge/Coffee-Lover-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-3DA639?style=for-the-badge&logo=opensourceinitiative&logoColor=white"/>
+<img src="https://img.shields.io/badge/Clean%20Code-Developer-blue?style=for-the-badge"/>
 
 </div>
 
 ---
 
-## 🐍 Snake Animation
+## 🌐 Redes
+
+<div align="center">
+
+<a href="https://github.com/Cristantenicollas">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<!-- Adicione abaixo suas redes sociais -->
+
+<!--
+<a href="https://linkedin.com/in/seuusuario">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/seuusuario">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+-->
+
+</div>
+
+---
+
+## 🐍 Contribuições
 
 <div align="center">
 
@@ -72,38 +110,12 @@
 
 ---
 
-## 🌎 Onde me encontrar
-
 <div align="center">
 
-<a href="https://github.com/Cristantenicollas">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f2027,50:203a43,100:2c5364"/>
+
+### ✨ Obrigado por visitar meu perfil!
+
+<img src="https://komarev.com/ghpvc/?username=Cristantenicollas&label=Visualizações&color=0e75b6&style=for-the-badge"/>
 
 </div>
-
----
-
-<div align="center">
-
-### ⭐ "Transformando ideias em código."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
-
-</div>
-## Hi there 👋
-
-<!--
-**Cristantenicollas/Cristantenicollas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
