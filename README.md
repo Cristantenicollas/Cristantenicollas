@@ -98,6 +98,14 @@
 
 </div>
 
+🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cristantenicollas&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 ---
 
 ## 🐍 Contribuições
